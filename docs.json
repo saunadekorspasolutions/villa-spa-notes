@@ -1,4 +1,19 @@
 {
   "name": "Sauna Dekor Spa Notes",
-  "description": "Technical notes on villa and hotel spa wet areas"
+  "description": "Technical notes on villa and hotel spa wet areas",
+  "sidebar": [
+    {
+      "group": "Notes",
+      "pages": [
+        {
+          "title": "Room data sheet for a Dubai villa spa",
+          "href": "/"
+        },
+        {
+          "title": "A swimming pool in Dubai: plant room and filtration",
+          "href": "/swimming-pool-dubai-plant-room-filtration"
+        }
+      ]
+    }
+  ]
 }
